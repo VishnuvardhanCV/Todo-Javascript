@@ -4,4 +4,4 @@ npm install -g json-server
 
 To start json-server 
 
-json-server --watch database.json
+npx json-server --watch db.json
