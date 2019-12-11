@@ -1,11 +1,13 @@
 Install JSON - Server to run this Application.
 
-npm install -g json-server
+Type these following commands in the root directory.
+
+"npm install -g json-server"
 
 To start json-server 
 
-npx json-server --watch database.json
+"npx json-server --watch database.json"
 
 or
 
-json-server --watch database.json
+"json-server --watch database.json"
